@@ -3,3 +3,11 @@
 ################################################################################
 
 /CRUD/.vs/CRUD
+/CRUD/CRUD.API/bin/Debug/netcoreapp3.1
+/CRUD/CRUD.API/obj
+/CRUD/CRUD.Entities/obj
+/CRUD/CRUD.Repository/bin/Debug/netcoreapp3.1
+/CRUD/CRUD.Repository/obj
+/CRUD/CRUD.Services/bin/Debug/netcoreapp3.1
+/CRUD/CRUD.Services/obj
+/CRUD/CRUD.Entities/bin/Debug/netcoreapp3.1
